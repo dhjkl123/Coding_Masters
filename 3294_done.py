@@ -12,7 +12,7 @@ for i in range(0,t):
     out = ''
     if res == 'WIN':
         lst[0] += 1
-        lst[1] = 0-
+        lst[1] = 0
         lst[2] = max(lst[0],lst[2])
     else :
         lst[0] = 0
